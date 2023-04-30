@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/SpawnManager.cs" />
     <Compile Include="Assets/Scripts/Towers/BaseTowerBehaviour.cs" />
+    <Compile Include="Assets/Scripts/CameraController.cs" />
     <Compile Include="Assets/Scripts/Towers/TurretTowerBehaviour.cs" />
     <Compile Include="Assets/Scripts/GameManager.cs" />
     <Compile Include="Assets/Scripts/Bullets/BulletData.cs" />
@@ -73,7 +74,6 @@
     <Compile Include="Assets/Scripts/Bullets/BulletBehaviour.cs" />
     <Compile Include="Assets/Scripts/NewClass.cs" />
     <Compile Include="Assets/Scripts/Towers/LazerTowerBehaviour.cs" />
-    <Compile Include="Assets/Scripts/CameraController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
