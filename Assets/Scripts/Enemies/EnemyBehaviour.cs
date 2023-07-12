@@ -44,7 +44,7 @@ public class EnemyBehaviour : MonoBehaviour
 
         if (_animator != null)
         {
-            _animator.SetBool("isWalking", true);
+            _animator.SetBool("walking", true);
         }
 
         Vector3 moveTo = _gameManager._movemantPoints[_pointNumber].transform.position - transform.position;
@@ -83,7 +83,16 @@ public class EnemyBehaviour : MonoBehaviour
     {
         _state = EnemyStates.Dead;
 
-        Destroy(gameObject);
+        if (_animator != null)
+        {
+            _animator.SetBool("died", true);
+            Debug.Log("deid animation");
+        } else
+        {
+            Destroy(gameObject);
+        }
+
+        //Destroy(gameObject);
         //Debug.Log("DIED");
     }
 

@@ -1480,6 +1480,7 @@ MonoBehaviour:
     _health: 50
     _gold: 10
     _speed: 2
+  _hasSlowEffacte: 0
 --- !u!65 &2972568833125163041
 BoxCollider:
   m_ObjectHideFlags: 0
