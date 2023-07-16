@@ -21328,10 +21328,10 @@ MonoBehaviour:
   - _enemyPrefub: {fileID: 4675952268379607374, guid: 08b8e22e31163477688c5bc9b1c2514f, type: 3}
     _enemyCount: 10
     _timeBetweenSpawnsEnemies: 0.2
-  - _enemyPrefub: {fileID: 489332325874130490, guid: ff2415ae3df824159b5fe64612f301c0, type: 3}
+  - _enemyPrefub: {fileID: 4093125804665812523, guid: bb512be1dc24a4c5a858c29aced97f6b, type: 3}
     _enemyCount: 10
     _timeBetweenSpawnsEnemies: 0.2
-  - _enemyPrefub: {fileID: 1168335216555631261, guid: c18b791a211414bbeaddcf0b9ee853dc, type: 3}
+  - _enemyPrefub: {fileID: 3313672786113676119, guid: b4f427bd23b5b493aa47c8816abddebb, type: 3}
     _enemyCount: 10
     _timeBetweenSpawnsEnemies: 0.2
   - _enemyPrefub: {fileID: 4236183927689733464, guid: c73623d24e9394f0985c40d38cc5db92, type: 3}
