@@ -21337,6 +21337,12 @@ MonoBehaviour:
   - _enemyPrefub: {fileID: 4236183927689733464, guid: c73623d24e9394f0985c40d38cc5db92, type: 3}
     _enemyCount: 2
     _timeBetweenSpawnsEnemies: 5
+  - _enemyPrefub: {fileID: 3632042335467437678, guid: 3035f68c21c7e45ff9963ae73e42adca, type: 3}
+    _enemyCount: 10
+    _timeBetweenSpawnsEnemies: 0.2
+  - _enemyPrefub: {fileID: 4568247365147823327, guid: cd0f1972bfa1640208980d211940b02c, type: 3}
+    _enemyCount: 7
+    _timeBetweenSpawnsEnemies: 0.2
 --- !u!1001 &1096909492
 PrefabInstance:
   m_ObjectHideFlags: 0
