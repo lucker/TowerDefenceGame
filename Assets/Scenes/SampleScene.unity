@@ -30220,7 +30220,7 @@ MonoBehaviour:
   _buyLazerTowerButton: {fileID: 563172784}
   _buyFreezTowerButton: {fileID: 1656652945}
   _TTTowerPrefub: {fileID: 5787169416699837616, guid: d1edbc1098a084553ba72661f7fdc0f6, type: 3}
-  _TurretTowerPrefub: {fileID: 4763170160242974100, guid: 54a8d4ee1af7740d78b59f60cd1862dc, type: 3}
+  _TurretTowerPrefub: {fileID: 4610405166147199037, guid: cce46ab65ea534a3999e337b33347e41, type: 3}
   _LazerTowerPrefub: {fileID: 5864948025506661136, guid: 6f7614267dc0d43c29a9a5adc9f370bd, type: 3}
   _FreezTowerPrefub: {fileID: 2144244668818239219, guid: ff6d184b37521456bafd9e9c30d78d4a, type: 3}
   _buyGUIBlock: {fileID: 909250889}
